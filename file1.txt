@@ -1,2 +1,3 @@
 Hello World
 Today is First Day of training.
+Tomorrow is also GIT training will continue.
