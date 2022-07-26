@@ -1,3 +1,6 @@
 Hello World
+Trainer: Akshat Gupta
+Org: NIIT
+StackRoute
 Today is First Day of training.
 Tomorrow is also GIT training will continue.
